@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 17.10.2000 
+**Course Date:** 09.04.2021 
 **Name:** Pelin
 **Surname:** Kolsuz 
 **Email:** kolsuzpelin@hotmail.com
